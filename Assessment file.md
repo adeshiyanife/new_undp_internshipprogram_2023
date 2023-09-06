@@ -15,5 +15,7 @@
 11. ![Screenshot 2023-09-05 222817](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/a0c89ed6-d5bf-4878-8925-97ba62e3cfaf)
 
 12. Connect to a server by pasting the server name copied frm SSMS and connect.
-13. Click on the database been worked on(Adventurework) on the sewrver. Click add, start the assessment and save.
-14. Test against Azure SQL managed instance, the Azure VM.
+13. ![Screenshot 2023-09-05 223012](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/b47d7517-4386-4f88-98a6-2c0541478819)
+
+14. Click on the database been worked on(Adventurework) on the server. Click add, start the assessment and save.
+15. Test against Azure SQL managed instance, the Azure VM.

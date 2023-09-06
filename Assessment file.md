@@ -12,6 +12,8 @@
 9. ![Screenshot 2023-09-05 222534](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/84d665db-c9c3-4e7d-a30a-1b34ccd847ca)
 
 10. Give the project a name e.g Adventurework_DB,check and choose the target server type(Azure SQL database) and click create.
-11. Connect to a server by pasting the server name copied frm SSMS and connect.
-12. Click on the database been worked on(Adventurework) on the sewrver. Click add, start the assessment and save.
-13. Test against Azure SQL managed instance, the Azure VM.
+11. ![Screenshot 2023-09-05 222817](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/a0c89ed6-d5bf-4878-8925-97ba62e3cfaf)
+
+12. Connect to a server by pasting the server name copied frm SSMS and connect.
+13. Click on the database been worked on(Adventurework) on the sewrver. Click add, start the assessment and save.
+14. Test against Azure SQL managed instance, the Azure VM.

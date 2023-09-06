@@ -18,4 +18,6 @@
 13. ![Screenshot 2023-09-05 223012](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/b47d7517-4386-4f88-98a6-2c0541478819)
 
 14. Click on the database been worked on(Adventurework) on the server. Click add, start the assessment and save.
-15. Test against Azure SQL managed instance, the Azure VM.
+15. ![Screenshot 2023-09-05 223047](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/1ae59746-7c4d-41cf-98f5-461d6191dada)
+
+16. Test against Azure SQL managed instance, the Azure VM.

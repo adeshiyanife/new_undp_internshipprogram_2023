@@ -6,4 +6,6 @@
 5.  Connecting database servers to Azure Data studio
 6.  creating repository in github
 7.  Transfer of files into github
+8.  connection to local server
+9.  Backing up and restoring of database in Azure and SSMS  
 

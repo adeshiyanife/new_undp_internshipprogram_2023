@@ -6,5 +6,5 @@
 4. When connected click on "New Query" 
 5. Set the Database Context.
 6. Use the right database in this context its (SQLTESTDB)
-7. Create a Database Backup by using the url generated from the shared access token
+7. Create a Database Backup and ensure its successful.
 8. When successful, refresh and check the credentials

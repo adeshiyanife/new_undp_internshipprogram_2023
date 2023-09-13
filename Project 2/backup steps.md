@@ -5,7 +5,7 @@
 3. Create a new container.![Screenshot 2023-09-11 154414](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/a9677260-5d41-42bf-9c4a-888808dcc37b)
 4. Navigate to shared access token and configure the permission to what action to take on the container and the validity.![Screenshot 2023-09-13 101049](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/dc6b022f-f5dd-47e2-ba37-f906d0f0d7c0)
 
-5. Generate  the SAS token and url.
+5. Generate  the SAS token and url.![Screenshot 2023-09-10 224002](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/0a272ac7-0fbc-48ba-b274-ea714af55855)
 6. Create credential by clicking on NEW QUERY
 7. In SSMS Create backup by using the url generated.
 8. Confirm the backup in Azure container.

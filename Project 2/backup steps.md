@@ -3,7 +3,8 @@
 
 2. Go to resource and create a storage account.
 3. Create a new container.
-4. Navigate to shared access token and configure the permission to what action to take on the container and the validity.
+4. Navigate to shared access token and configure the permission to what action to take on the container and the validity.![Screenshot 2023-09-13 101049](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/dc6b022f-f5dd-47e2-ba37-f906d0f0d7c0)
+
 5. Generate  the SAS token and url.
 6. Create credential by clicking on NEW QUERY
 7. In SSMS Create backup by using the url generated.

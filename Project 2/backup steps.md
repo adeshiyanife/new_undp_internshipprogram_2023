@@ -9,5 +9,6 @@
 6. Create credential by clicking on NEW QUERY
 7. In SSMS Create backup by using the url generated.![Screenshot 2023-09-11 230241](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/c15fef2d-7a0b-41ee-b3b2-f33e04ea6a4a)
 8. Confirm the backup in Azure container.
-9. After backing up the data, DELETE the database so as to RESTORE the database.
+9. After backing up the data, DELETE the database so as to RESTORE the database.![Screenshot 2023-09-12 092304](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/e4e3f4b4-3789-4883-bec0-3803766bed78)
+
 10. To restore, use the generated url too.

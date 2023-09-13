@@ -7,7 +7,7 @@
 
 5. Generate  the SAS token and url.![Screenshot 2023-09-10 224002](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/0a272ac7-0fbc-48ba-b274-ea714af55855)
 6. Create credential by clicking on NEW QUERY
-7. In SSMS Create backup by using the url generated.
+7. In SSMS Create backup by using the url generated.![Screenshot 2023-09-11 230241](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/c15fef2d-7a0b-41ee-b3b2-f33e04ea6a4a)
 8. Confirm the backup in Azure container.
 9. After backing up the data, DELETE the database so as to RESTORE the database.
 10. To restore, use the generated url too.

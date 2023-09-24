@@ -4,10 +4,10 @@ Download Power BI deskstop using https://aka.ms/power-bi-desktop and take follow
 1. ## To import the data
 2.  Open Power BI Desktop. The application interface should look similar to this: ![Screenshot 2023-09-20 220729](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/289f94c5-6976-437e-8ffb-71b89cf87ad4)
 
-3. Click on Get data, and then in the list of data sources, select Web and then click Connect.(https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/91877c1b-3f97-4eca-9cd3-f59fe050f60d)
+3. Click on Get data, and then in the list of data sources, select Web and then click Connect.![Screenshot 2023-09-20 220936](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/0223fcb4-2ac6-4efe-8507-0c3963481609)
 
 4. On the web dialog box, enter the following URL and then select OK: https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/raw/master/power-bi/customers.csv .  Follow the same process for these other two links:https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/raw/master/power-bi/products.csv and  https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/raw/master/power-bi/orders.csv
-5. To explore the data, go to the left-side edge, select the Model tab, and then you cn arrange the tables.
+5. To explore the data, go to the left-side edge, select the Model tab, and then you can arrange the tables.
 6. In the orders table, select the Revenue field and then in the Properties pane, set its Format property to Currency:
 7. Click on the products table and right-click the Category field (or open its ⋮ menu) and select Create hierarchy. This step creates a hierarchy named Category Hierarchy. You may need to expand or scroll in the products table to see this - you can also see it in the Fields pane:
 8. on the products table, right-click the ProductName field (or open its ⋮ menu) and  then select Add to hierarchy > Category Hierarchy. This adds the ProductName field to the hierarchy you created previously.

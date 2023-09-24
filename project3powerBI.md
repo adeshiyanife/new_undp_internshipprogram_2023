@@ -18,7 +18,8 @@ Download Power BI deskstop using https://aka.ms/power-bi-desktop and take follow
 10. On the far left hand corner,select the Table View, then in the Data pane, select the customers table.Select the City column header, and then set its Data Category property to City.![Screenshot 2023-09-20 222255](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/de4469b5-9448-4b04-bee3-186794ec63b1)
 
 11. ## To create a REPORT
-12.  Go to the File menu, select Options and Settings. Then select Options, and in the Security section, ensure that Use Map and Filled Map visuals is enabled and select OK.
+12.  Go to the File menu, select Options and Settings. Then select Options, and in the Security section, ensure that Use Map and Filled Map visuals is enabled and select OK.![Screenshot 2023-09-20 222315](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/362b763e-56b9-477b-9215-5395f93ebbee)
+
 13. On the left-side edge, select the Report view tab and view the report design interface.
 14. Select any empty area on the report to de-select the text box. Then in the Data pane, expand Products and select the Categorized Products field. This step adds a table to the report.
 15. While still on the table still selected, in the Data pane, expand Orders and select Revenue. A Revenue column is added to the table. You may need to expand the size of the table to see it.

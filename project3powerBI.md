@@ -2,7 +2,7 @@
 
 Download Power BI deskstop using https://aka.ms/power-bi-desktop and take follow the steps below
 1. ## To import the data
-2.  Open Power BI Desktop. The application interface should look similar to this:
+2.  Open Power BI Desktop. The application interface should look similar to this: (https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/bbca4897-6c6e-4b39-b20d-cad616758cfb)
 3. Click on Get data, and then in the list of data sources, select Web and then click Connect.(https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/91877c1b-3f97-4eca-9cd3-f59fe050f60d)
 
 4. On the web dialog box, enter the following URL and then select OK: https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/raw/master/power-bi/customers.csv .  Follow the same process for these other two links:https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/raw/master/power-bi/products.csv and  https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/raw/master/power-bi/orders.csv

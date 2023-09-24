@@ -10,7 +10,8 @@ Download Power BI deskstop using https://aka.ms/power-bi-desktop and take follow
 6. In the orders table, select the Revenue field and then in the Properties pane, set its Format property to Currency:
 7. Click on the products table and right-click the Category field (or open its ⋮ menu) and select Create hierarchy. This step creates a hierarchy named Category Hierarchy. You may need to expand or scroll in the products table to see this - you can also see it in the Fields pane:
 8. on the products table, right-click the ProductName field (or open its ⋮ menu) and  then select Add to hierarchy > Category Hierarchy. This adds the ProductName field to the hierarchy you created previously.
-9. While on the Fields pane, right-click Category Hierarchy (or open its … menu) and select Rename. Then rename the hierarchy to Categorized Product.(https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/4d9d3751-7909-4cf0-9553-2b6ae8c7252a)
+9. While on the Fields pane, right-click Category Hierarchy (or open its … menu) and select Rename. Then rename the hierarchy to Categorized Product.![Screenshot 2023-09-20 222228](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/4926fc48-83b0-4356-b97c-77498e8b4776)
+
 
 10. On the far left hand corner,select the Table View, then in the Data pane, select the customers table.Select the City column header, and then set its Data Category property to City.
 11. ## To create a REPORT

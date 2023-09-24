@@ -20,7 +20,8 @@ Download Power BI deskstop using https://aka.ms/power-bi-desktop and take follow
 16. With the table still selected, in the Visualizations pane, select the Stacked column chart visualization. The table is changed to a column chart showing revenue by category.
 17. select the ↓ icon to turn on drill-down. Then in the chart, select the second column to drill down and see the revenue for the individual products in this category. This capability is possible because you defined a hierarchy of categories and products.
 18. Select a blank area of the report, and then in the Data pane, select the Quantity field in the orders table and the Category field in the products table. This step results in another column chart showing sales quantity by product category.
-19. elect a blank area of the report, and then in the Data pane, select the City field in the customers table and then select the Revenue field in the orders table. This results in a map showing sales revenue by city. Rearrange and resize the visualizations as needed:
+19. Select a blank area of the report, and then in the Data pane, select the City field in the customers table and then select the Revenue field in the orders table. This results in a map showing sales revenue by city. Rearrange and resize the visualizations as needed:(https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/312026c6-bfbe-49e6-bf45-7c176c556ce6)
+
 20. On the File menu, select Save. Then save the file with an appropriate .pbix file name. You can open the file and explore data modeling and visualization further at your leisure.
 18. 
     

@@ -15,7 +15,8 @@ Download Power BI deskstop using https://aka.ms/power-bi-desktop and take follow
 9. While on the Fields pane, right-click Category Hierarchy (or open its … menu) and select Rename. Then rename the hierarchy to Categorized Product.![Screenshot 2023-09-20 222228](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/4926fc48-83b0-4356-b97c-77498e8b4776)
 
 
-10. On the far left hand corner,select the Table View, then in the Data pane, select the customers table.Select the City column header, and then set its Data Category property to City.
+10. On the far left hand corner,select the Table View, then in the Data pane, select the customers table.Select the City column header, and then set its Data Category property to City.![Screenshot 2023-09-20 222255](https://github.com/adeshiyanife/new_undp_internshipprogram_2023/assets/139870552/de4469b5-9448-4b04-bee3-186794ec63b1)
+
 11. ## To create a REPORT
 12.  Go to the File menu, select Options and Settings. Then select Options, and in the Security section, ensure that Use Map and Filled Map visuals is enabled and select OK.
 13. On the left-side edge, select the Report view tab and view the report design interface.

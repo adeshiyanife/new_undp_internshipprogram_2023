@@ -8,4 +8,4 @@
 7.  Transfer of files into github
 8.  connection to local server
 9.  Backing up and restoring of database in Azure and SSMS  
-
+10. creating database on cloud

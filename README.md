@@ -9,4 +9,4 @@
 8.  connection to local server
 9.  Backing up and restoring of database in Azure and SSMS  
 10. creating database on cloud
-11. Migration of SQL to Azure SQL database
+11. Migration of SQL server to Azure SQL database
